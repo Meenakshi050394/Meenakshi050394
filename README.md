@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Meenakshi Hariharakrishnan
-- 👀 I’m interested in Deep Learning
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Deep Learning, Machine Learning, Computer Vision and GenAI 
+- 🌱 I’m currently Working as an AI ML Engineer
 - 💞️ I’m looking to collaborate on Interesting projects 
-- 📫 How to reach me https://www.linkedin.com/in/meenakshihariharakrishnan
+- 📫 How to reach me https://www.linkedin.com/in/meenakshi-hariharakrishnan-6a14a3393/
 
 
 <!---
